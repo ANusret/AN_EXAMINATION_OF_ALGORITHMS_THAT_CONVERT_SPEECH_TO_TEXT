@@ -1,0 +1,20 @@
+LSTMTwoLayer Modelinin eğitim sonuçları
+Seed == 0:
+Accuracy score on validation dataset: 0.917215152844815
+Accuracy score on test dataset: 0.9188245562990981
+
+Seed ==10:
+Accuracy score on validation dataset: 0.9218955682316805
+Accuracy score on test dataset: 0.9106779167878964
+
+Seed == 20:
+Accuracy score on validation dataset: 0.923358198040076
+Accuracy score on test dataset: 0.9172243235379691
+
+Seed == 30:
+Accuracy score on validation dataset: 0.9150212081322218
+Accuracy score on test dataset: 0.9146057608379401
+
+Seed == 40:
+Accuracy score on validation dataset: 0.9166301009214568
+Accuracy score on test dataset: 0.9164969450101833

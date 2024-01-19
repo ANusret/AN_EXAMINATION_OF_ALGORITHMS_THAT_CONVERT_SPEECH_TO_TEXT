@@ -1,0 +1,20 @@
+GRU Modelinin eğitim sonuçları
+Seed == 0:
+Accuracy score on validation dataset: 0.9914194299011053
+Accuracy score on test dataset: 0.9939244900911326
+
+Seed ==10:
+Accuracy score on validation dataset: 0.9892379290285049
+Accuracy score on test dataset: 0.989295530160567
+
+Seed == 20:
+Accuracy score on validation dataset: 0.9896742292030251
+Accuracy score on test dataset: 0.9879936351800954
+
+Seed == 30:
+Accuracy score on validation dataset: 0.9909831297265852
+Accuracy score on test dataset: 0.990018805149718
+
+Seed == 40:
+Accuracy score on validation dataset: 0.9927283304246655
+Accuracy score on test dataset: 0.9943584550846232
