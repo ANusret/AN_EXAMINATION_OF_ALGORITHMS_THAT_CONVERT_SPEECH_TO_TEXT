@@ -26,7 +26,7 @@ Moreover, in the landscape dominated by screens, the rise of voice interfaces of
 
 ## Access
 
-Link: [https://www.tensorflow.org/datasets/catalog/mnist?hl=en](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/overview)
+Link: https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/overview
 
 
 
